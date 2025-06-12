@@ -38,7 +38,9 @@ Begin your hunt with newly created virtual machines that were only active for a 
 
 **KQL Query**:
 
-**Screenshot:**
+**Results:**
+![flag 1](https://github.com/user-attachments/assets/b019b71a-e464-4ee9-9a27-b37711827676)
+
 
 ---
 
@@ -47,7 +49,8 @@ Begin your hunt with newly created virtual machines that were only active for a 
 
 **KQL Query**:
 
-**Screenshot:**
+**Results:**
+![flag 2](https://github.com/user-attachments/assets/e85acdb8-49cb-412e-aaeb-7380d20654e5)
 
 ---
 
@@ -60,7 +63,8 @@ Begin your hunt with newly created virtual machines that were only active for a 
 powershell.exe -WindowStyle Hidden -Exec Bypass -File C:\Users\Public\C2.ps1
 ```
 
-**Screenshot:**
+**Results:**
+![flag 3](https://github.com/user-attachments/assets/7739702b-98f3-4c97-8722-5dbe76e68c09)
 
 ---
 
@@ -69,7 +73,8 @@ powershell.exe -WindowStyle Hidden -Exec Bypass -File C:\Users\Public\C2.ps1
 
 **KQL Query**:
 
-**Screenshot:**
+**Results:**
+![flag 4](https://github.com/user-attachments/assets/ceeb8f08-46e8-4616-a789-06734a228d97)
 
 ---
 
@@ -79,7 +84,8 @@ powershell.exe -WindowStyle Hidden -Exec Bypass -File C:\Users\Public\C2.ps1
 
 **KQL Query**:
 
-**Screenshot:**
+**Results:**
+![flag 5](https://github.com/user-attachments/assets/466f4f61-7453-4bf9-b1ab-0b284d721639)
 
 ---
 
@@ -89,7 +95,8 @@ powershell.exe -WindowStyle Hidden -Exec Bypass -File C:\Users\Public\C2.ps1
 
 **KQL Query**:
 
-**Screenshot:**
+**Results:**
+![flag 6](https://github.com/user-attachments/assets/54267b63-e218-4e2a-a4a1-882f6234aca5)
 
 ---
 
@@ -98,7 +105,8 @@ powershell.exe -WindowStyle Hidden -Exec Bypass -File C:\Users\Public\C2.ps1
 
 **KQL Query**:
 
-**Screenshot:**
+**Results:**
+![flag 7](https://github.com/user-attachments/assets/59b8c0fa-0e8d-42dc-aac5-d6796cc4b79a)
 
 ---
 
@@ -107,7 +115,8 @@ powershell.exe -WindowStyle Hidden -Exec Bypass -File C:\Users\Public\C2.ps1
 
 **KQL Query**:
 
-**Screenshot:**
+**Results:**
+![flag 8](https://github.com/user-attachments/assets/cd52fbfb-6e33-4376-b93d-55cc0b366e00)
 
 
 ### 🔹 Flag 8.1 – Registry Persistence on Second Host  
@@ -116,7 +125,8 @@ powershell.exe -WindowStyle Hidden -Exec Bypass -File C:\Users\Public\C2.ps1
 
 **KQL Query**:
 
-**Screenshot:**
+**Results:**
+![flag 8 1](https://github.com/user-attachments/assets/ace65c6b-99b4-433b-a8a9-e64b1bd586c7)
 
 ---
 
@@ -125,7 +135,9 @@ powershell.exe -WindowStyle Hidden -Exec Bypass -File C:\Users\Public\C2.ps1
 
 **KQL Query**:
 
-**Screenshot:**
+**Results:**
+![flag 9](https://github.com/user-attachments/assets/b985dedd-f40c-473f-a7dc-a25de04e5893)
+
 
 ---
 
@@ -134,7 +146,8 @@ powershell.exe -WindowStyle Hidden -Exec Bypass -File C:\Users\Public\C2.ps1
 
 **KQL Query**:
 
-**Screenshot:**
+**Results:**
+![flag 10](https://github.com/user-attachments/assets/f90bed20-25e0-4539-8a96-53aa49afd078)
 
 ---
 
@@ -143,7 +156,8 @@ powershell.exe -WindowStyle Hidden -Exec Bypass -File C:\Users\Public\C2.ps1
 
 **KQL Query**:
 
-**Screenshot:**
+**Results:**
+![flag 11](https://github.com/user-attachments/assets/46d2bac9-353a-46e3-ba54-10189b197147)
 
 ---
 
@@ -153,7 +167,8 @@ powershell.exe -WindowStyle Hidden -Exec Bypass -File C:\Users\Public\C2.ps1
 
 **KQL Query**:
 
-**Screenshot:**
+**Results:**
+![flag 12](https://github.com/user-attachments/assets/59144762-3246-4d89-9476-4fa9a10e30d9)
 
 ---
 
@@ -162,7 +177,8 @@ powershell.exe -WindowStyle Hidden -Exec Bypass -File C:\Users\Public\C2.ps1
 
 **KQL Query**:
 
-**Screenshot:**
+**Results:**
+![flag 13](https://github.com/user-attachments/assets/e8d64fdb-8c40-4b4f-865c-28fe2bb25936)
 
 ---
 
@@ -172,7 +188,8 @@ powershell.exe -WindowStyle Hidden -Exec Bypass -File C:\Users\Public\C2.ps1
 
 **KQL Query**:
 
-**Screenshot:**
+**Results:**
+![flag 14](https://github.com/user-attachments/assets/1842f937-7de5-430d-870c-2f9f9a72c69f)
 
 ---
 
@@ -181,7 +198,7 @@ powershell.exe -WindowStyle Hidden -Exec Bypass -File C:\Users\Public\C2.ps1
 
 **KQL Query**:
 
-**Screenshot:**
+**Results:**
 
 ---
 
@@ -190,7 +207,7 @@ powershell.exe -WindowStyle Hidden -Exec Bypass -File C:\Users\Public\C2.ps1
 
 **KQL Query**:
 
-**Screenshot:**
+**Results:**
 
 ---
 ## 🧠 Analyst Reasoning Flow
